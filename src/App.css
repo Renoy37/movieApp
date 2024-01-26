@@ -154,6 +154,9 @@ img {
   /* height: 480px; */
   /* transition: transform 0.3s ease-in-out; */
   border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 /* .movies:hover {
   transform: scale(1.05);
@@ -233,6 +236,24 @@ img {
   margin-top: 10px;
   font-size: 1.2rem;
   color: #3498db;
+}
+
+/* search */
+.search-name {
+  text-align: center;
+}
+.back-btn {
+  padding: 10px;
+  border-color: #000;
+}
+.back-btn:hover {
+  color: #656464;
+  background-color: #f2eeee;
+  transition: color 0.4s ease, background-color 0.3s ease;
+}
+.iconify-icon:hover{
+  transform: translateX(5px); 
+  transition: transform 0.3s ease;
 }
 
 @keyframes spin {
