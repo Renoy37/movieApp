@@ -1,0 +1,242 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "The Shawshank Redemption",
+      "genre": "Drama",
+      "releaseYear": 1994,
+      "director": "Frank Darabont",
+      "actors": ["Tim Robbins", "Morgan Freeman"],
+      "plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "poster": "shawshank_redemption_poster.jpg"
+    },
+    {
+      "id": 2,
+      "title": "The Godfather",
+      "genre": "Crime",
+      "releaseYear": 1972,
+      "director": "Francis Ford Coppola",
+      "actors": ["Marlon Brando", "Al Pacino"],
+      "plot": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+
+      "poster": "godfather_poster.jpg",
+      "movieUrl": "https://vod-progressive.akamaized.net/exp=1705931125~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1156%2F21%2F530783659%2F2501302567.mp4~hmac=761299a06c3f4f79db4b2e8305057c9c20fd2039c8ba2f581d7959a37583a98b/vimeo-prod-skyfire-std-us/01/1156/21/530783659/2501302567.mp4"
+
+    },
+    {
+      "id": 3,
+      "title": "Inception",
+      "genre": "Sci-Fi",
+      "releaseYear": 2010,
+      "director": "Christopher Nolan",
+      "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt"],
+      "plot": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+      "poster": "inception_poster.jpg",
+      "movieUrl": "https://vod-progressive.akamaized.net/exp=1705931125~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1156%2F21%2F530783659%2F2501302567.mp4~hmac=761299a06c3f4f79db4b2e8305057c9c20fd2039c8ba2f581d7959a37583a98b/vimeo-prod-skyfire-std-us/01/1156/21/530783659/2501302567.mp4"
+
+    },
+    {
+      "id": 4,
+      "title": "Pulp Fiction",
+      "genre": "Crime",
+      "releaseYear": 1994,
+      "director": "Quentin Tarantino",
+      "actors": ["John Travolta", "Samuel L. Jackson"],
+      "plot": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "poster": "pulp_fiction_poster.jpg",
+      "movieUrl": "https://vod-progressive.akamaized.net/exp=1705931125~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1156%2F21%2F530783659%2F2501302567.mp4~hmac=761299a06c3f4f79db4b2e8305057c9c20fd2039c8ba2f581d7959a37583a98b/vimeo-prod-skyfire-std-us/01/1156/21/530783659/2501302567.mp4"
+
+    },
+    {
+      "id": 5,
+      "title": "The Dark Knight",
+      "genre": "Action",
+      "releaseYear": 2008,
+      "director": "Christopher Nolan",
+      "actors": ["Christian Bale", "Heath Ledger"],
+      "plot": "When the menace known as The Joker emerges, Batman must confront one of the greatest psychological and physical tests of his ability to fight injustice.",
+      "poster": "dark_knight_poster.jpg",
+      "movieUrl": "https://vod-progressive.akamaized.net/exp=1705931125~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1156%2F21%2F530783659%2F2501302567.mp4~hmac=761299a06c3f4f79db4b2e8305057c9c20fd2039c8ba2f581d7959a37583a98b/vimeo-prod-skyfire-std-us/01/1156/21/530783659/2501302567.mp4"
+
+    },
+    {
+      "id": 6,
+      "title": "Forrest Gump",
+      "genre": "Drama",
+      "releaseYear": 1994,
+      "director": "Robert Zemeckis",
+      "actors": ["Tom Hanks", "Robin Wright"],
+      "plot": "The presidencies of Kennedy through Johnson, Vietnam, Watergate, and other historical events unfold through the perspective of an Alabama man with an IQ of 75.",
+      "poster": "forrest_gump_poster.jpg",
+      "movieUrl": "https://vod-progressive.akamaized.net/exp=1705931125~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1156%2F21%2F530783659%2F2501302567.mp4~hmac=761299a06c3f4f79db4b2e8305057c9c20fd2039c8ba2f581d7959a37583a98b/vimeo-prod-skyfire-std-us/01/1156/21/530783659/2501302567.mp4"
+
+    },
+    {
+      "id": 7,
+      "title": "The Matrix",
+      "genre": "Sci-Fi",
+      "releaseYear": 1999,
+      "director": "The Wachowskis",
+      "actors": ["Keanu Reeves", "Laurence Fishburne"],
+      "plot": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+      "poster": "matrix_poster.jpg",
+      "movieUrl": "https://vod-progressive.akamaized.net/exp=1705931125~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1156%2F21%2F530783659%2F2501302567.mp4~hmac=761299a06c3f4f79db4b2e8305057c9c20fd2039c8ba2f581d7959a37583a98b/vimeo-prod-skyfire-std-us/01/1156/21/530783659/2501302567.mp4"
+
+    },
+    {
+      "id": 8,
+      "title": "Schindler's List",
+      "genre": "Biography",
+      "releaseYear": 1993,
+      "director": "Steven Spielberg",
+      "actors": ["Liam Neeson", "Ben Kingsley"],
+      "plot": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+      "poster": "schindlers_list_poster.jpg",
+      "movieUrl": "https://vod-progressive.akamaized.net/exp=1705931125~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1156%2F21%2F530783659%2F2501302567.mp4~hmac=761299a06c3f4f79db4b2e8305057c9c20fd2039c8ba2f581d7959a37583a98b/vimeo-prod-skyfire-std-us/01/1156/21/530783659/2501302567.mp4"
+
+    },{
+      "id": 9,
+      "title": "The Shawshank Redemption",
+      "genre": "Drama",
+      "releaseYear": 1994,
+      "director": "Frank Darabont",
+      "actors": ["Tim Robbins", "Morgan Freeman"],
+      "plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "poster": "shawshank_redemption_poster.jpg",
+      "movieUrl": "https://vod-progressive.akamaized.net/exp=1705931125~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1156%2F21%2F530783659%2F2501302567.mp4~hmac=761299a06c3f4f79db4b2e8305057c9c20fd2039c8ba2f581d7959a37583a98b/vimeo-prod-skyfire-std-us/01/1156/21/530783659/2501302567.mp4"
+
+    },
+    {
+      "id": 10,
+      "title": "The Godfather",
+      "genre": "Crime",
+      "releaseYear": 1972,
+      "director": "Francis Ford Coppola",
+      "actors": ["Marlon Brando", "Al Pacino"],
+      "plot": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+      "poster": "godfather_poster.jpg",
+      "movieUrl": "https://vod-progressive.akamaized.net/exp=1705931125~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1156%2F21%2F530783659%2F2501302567.mp4~hmac=761299a06c3f4f79db4b2e8305057c9c20fd2039c8ba2f581d7959a37583a98b/vimeo-prod-skyfire-std-us/01/1156/21/530783659/2501302567.mp4"
+
+    },
+    {
+      "id": 11,
+      "title": "Inception",
+      "genre": "Sci-Fi",
+      "releaseYear": 2010,
+      "director": "Christopher Nolan",
+      "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt"],
+      "plot": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+      "poster": "inception_poster.jpg",
+      "movieUrl": "https://vod-progressive.akamaized.net/exp=1705931125~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1156%2F21%2F530783659%2F2501302567.mp4~hmac=761299a06c3f4f79db4b2e8305057c9c20fd2039c8ba2f581d7959a37583a98b/vimeo-prod-skyfire-std-us/01/1156/21/530783659/2501302567.mp4"
+
+    },
+    {
+      "id": 12,
+      "title": "Pulp Fiction",
+      "genre": "Crime",
+      "releaseYear": 1994,
+      "director": "Quentin Tarantino",
+      "actors": ["John Travolta", "Samuel L. Jackson"],
+      "plot": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "poster": "pulp_fiction_poster.jpg",
+      "movieUrl": "https://vod-progressive.akamaized.net/exp=1705931125~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1156%2F21%2F530783659%2F2501302567.mp4~hmac=761299a06c3f4f79db4b2e8305057c9c20fd2039c8ba2f581d7959a37583a98b/vimeo-prod-skyfire-std-us/01/1156/21/530783659/2501302567.mp4"
+
+    },
+    {
+      "id": 13,
+      "title": "The Dark Knight",
+      "genre": "Action",
+      "releaseYear": 2008,
+      "director": "Christopher Nolan",
+      "actors": ["Christian Bale", "Heath Ledger"],
+      "plot": "When the menace known as The Joker emerges, Batman must confront one of the greatest psychological and physical tests of his ability to fight injustice.",
+      "poster": "dark_knight_poster.jpg",
+      "movieUrl": "https://vod-progressive.akamaized.net/exp=1705931125~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1156%2F21%2F530783659%2F2501302567.mp4~hmac=761299a06c3f4f79db4b2e8305057c9c20fd2039c8ba2f581d7959a37583a98b/vimeo-prod-skyfire-std-us/01/1156/21/530783659/2501302567.mp4"
+
+    },
+    {
+      "id": 14,
+      "title": "Forrest Gump",
+      "genre": "Drama",
+      "releaseYear": 1994,
+      "director": "Robert Zemeckis",
+      "actors": ["Tom Hanks", "Robin Wright"],
+      "plot": "The presidencies of Kennedy through Johnson, Vietnam, Watergate, and other historical events unfold through the perspective of an Alabama man with an IQ of 75.",
+      "poster": "forrest_gump_poster.jpg",
+      "movieUrl": "https://vod-progressive.akamaized.net/exp=1705931125~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1156%2F21%2F530783659%2F2501302567.mp4~hmac=761299a06c3f4f79db4b2e8305057c9c20fd2039c8ba2f581d7959a37583a98b/vimeo-prod-skyfire-std-us/01/1156/21/530783659/2501302567.mp4"
+
+    },
+    {
+      "id": 15,
+      "title": "The Matrix",
+      "genre": "Sci-Fi",
+      "releaseYear": 1999,
+      "director": "The Wachowskis",
+      "actors": ["Keanu Reeves", "Laurence Fishburne"],
+      "plot": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+      "poster": "matrix_poster.jpg",
+      "movieUrl": "https://vod-progressive.akamaized.net/exp=1705931125~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1156%2F21%2F530783659%2F2501302567.mp4~hmac=761299a06c3f4f79db4b2e8305057c9c20fd2039c8ba2f581d7959a37583a98b/vimeo-prod-skyfire-std-us/01/1156/21/530783659/2501302567.mp4"
+
+    },
+    {
+      "id": 16,
+      "title": "Schindler's List",
+      "genre": "Biography",
+      "releaseYear": 1993,
+      "director": "Steven Spielberg",
+      "actors": ["Liam Neeson", "Ben Kingsley"],
+      "plot": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+      "poster": "schindlers_list_poster.jpg",
+      "movieUrl": "https://vod-progressive.akamaized.net/exp=1705931125~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1156%2F21%2F530783659%2F2501302567.mp4~hmac=761299a06c3f4f79db4b2e8305057c9c20fd2039c8ba2f581d7959a37583a98b/vimeo-prod-skyfire-std-us/01/1156/21/530783659/2501302567.mp4"
+
+    },
+    {
+      "id": 17,
+      "title": "The Shawshank Redemption",
+      "genre": "Drama",
+      "releaseYear": 1994,
+      "director": "Frank Darabont",
+      "actors": ["Tim Robbins", "Morgan Freeman"],
+      "plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "poster": "shawshank_redemption_poster.jpg",
+      "movieUrl": "https://vod-progressive.akamaized.net/exp=1705931125~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1156%2F21%2F530783659%2F2501302567.mp4~hmac=761299a06c3f4f79db4b2e8305057c9c20fd2039c8ba2f581d7959a37583a98b/vimeo-prod-skyfire-std-us/01/1156/21/530783659/2501302567.mp4"
+
+    },
+    {
+      "id": 18,
+      "title": "The Godfather",
+      "genre": "Crime",
+      "releaseYear": 1972,
+      "director": "Francis Ford Coppola",
+      "actors": ["Marlon Brando", "Al Pacino"],
+      "plot": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+      "poster": "godfather_poster.jpg",
+      "movieUrl": "https://vod-progressive.akamaized.net/exp=1705931125~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1156%2F21%2F530783659%2F2501302567.mp4~hmac=761299a06c3f4f79db4b2e8305057c9c20fd2039c8ba2f581d7959a37583a98b/vimeo-prod-skyfire-std-us/01/1156/21/530783659/2501302567.mp4"
+
+    },
+    {
+      "id": 19,
+      "title": "Inception",
+      "genre": "Sci-Fi",
+      "releaseYear": 2010,
+      "director": "Christopher Nolan",
+      "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt"],
+      "plot": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+      "poster": "inception_poster.jpg",
+      "movieUrl": "https://vod-progressive.akamaized.net/exp=1705931125~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1156%2F21%2F530783659%2F2501302567.mp4~hmac=761299a06c3f4f79db4b2e8305057c9c20fd2039c8ba2f581d7959a37583a98b/vimeo-prod-skyfire-std-us/01/1156/21/530783659/2501302567.mp4"
+
+    },
+    {
+      "id": 20,
+      "title": "Pulp Fiction",
+      "genre": "Crime",
+      "releaseYear": 1994,
+      "director": "Quentin Tarantino",
+      "actors": ["John Travolta", "Samuel L. Jackson"],
+      "plot": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "poster": "pulp_fiction_poster.jpg",
+      "movieUrl": "https://vod-progressive.akamaized.net/exp=1705931125~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1156%2F21%2F530783659%2F2501302567.mp4~hmac=761299a06c3f4f79db4b2e8305057c9c20fd2039c8ba2f581d7959a37583a98b/vimeo-prod-skyfire-std-us/01/1156/21/530783659/2501302567.mp4"
+
+    }
+  ]
+}
